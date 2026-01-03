@@ -1,7 +1,11 @@
 {
   "client_config": {
+    "app_server_status": true,
+    "app_beta_status": false,
+    "game_version": "1.0.0",
+    "game_url": "/",
     "version_code": 86,
     "url_launcher": "/",
-    "url_cache_files": "https://server3.sampmobile.com/files/files.json"
+    "url_cache_files": "https://samp-mobile.shop/files.json"
   }
 }
