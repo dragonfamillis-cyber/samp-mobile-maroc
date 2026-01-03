@@ -1,7 +1,7 @@
 {
   "client_config": {
-    "version_code": 40,
-    "url_launcher": "https://www.dropbox.com/scl/fi/ooumt079e328sc9rgrpyf/game.zip?rlkey=fd5dz1xd8y02wxdk96lfp3565&st=ol0qur7p&dl=1",
+    "version_code": 86,
+    "url_launcher": "/",
     "url_cache_files": "https://server3.sampmobile.com/files/files.json"
   }
 }
