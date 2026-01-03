@@ -5,7 +5,7 @@
     "game_version": "1.0.0",
     "game_url": "/",
     "version_code": 86,
-    "url_launcher": "/",
+    "url_launcher": "https://server3.sampmobile.com/files/files.json",
     "url_cache_files": "https://server3.sampmobile.com/files/files.json"
   }
 }
